@@ -1,2 +1,4 @@
-# Project_Kernel_SVM
-Use the SVM to classify points which are generated as "spiral" data, the kernels include linear, polynomial and rbf.
+# Project 3: Kernel SVM
+
+View 03kernelsvm.html for detailed instructions on the assignment.
+
